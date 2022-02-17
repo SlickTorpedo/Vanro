@@ -1,27 +1,20 @@
-Owner(s):
--BrokenMacro
--DankJosBot
--FrozenShai
+Owner(s): BrokenMacro, DankJosBot, FrozenShai
 
-Head Dev:
--Slick
+Head Dev: Slick
 
-Builders:
--Aki
--Kei
--Sianou
+Builders: Aki, Kei, Sianou
 
 Public Repository for Server Development
 
 My Information:
- - Server:
   - lifesteal.me
   - https://lifesteal.me
   - lifesteal.me/discord
  
- - Website Development
- - Backend Development
- - API Developer (Sorta)
- - Plugin Developer
- - Discord Bot Developer
+ 
+Website Development
+Backend Development
+API Developer (Sorta)
+Plugin Developer
+Discord Bot Developer
  
