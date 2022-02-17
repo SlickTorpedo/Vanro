@@ -11,7 +11,8 @@ My Information:
   - https://lifesteal.me
   - lifesteal.me/discord
  
- 
+
+Developer Over:
 - Website Developmentm
 - Backend Development
 - API Developer (Sorta)
