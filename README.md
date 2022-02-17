@@ -12,9 +12,9 @@ My Information:
   - lifesteal.me/discord
  
  
-Website Development
-Backend Development
-API Developer (Sorta)
-Plugin Developer
-Discord Bot Developer
+- Website Developmentm
+- Backend Development
+- API Developer (Sorta)
+- Plugin Developer
+- Discord Bot Developer
  
